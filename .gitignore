@@ -155,3 +155,8 @@ ipython_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Large data files
+*.db
+*.zip
+*.csv
