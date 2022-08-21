@@ -17,11 +17,9 @@ Microsoft may be able to find the most financial and critical success through th
 IMDB and The numbers are two of the largest databases for publicly sourced movie data. IMDB contains general information, such as genre, release date, cast and crew, on millions of titles. IMDB also has over 80 million registered users contributing their opinions on films via ratings and reviews. The Numbers is a database that tracks box office revenues. 
 
 ### IMDB Data
-![IMDB logo](./images/imdb.png)
 The IMDB dataset has records from films that were released between 2010 and 2019 and basic information like average rating, number of votes, cast, and crew.
 
 ### The Numbers Data
-![The Numbers Logo](./images/the_numbers_logo.svg)
 The Numbers dataset has information on a film's exat release date, production budget, and gross revenue.
 
 ***
