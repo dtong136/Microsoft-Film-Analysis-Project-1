@@ -2,7 +2,7 @@
 
 **Author**: Daniel Tong
 
-![films](./images/movies.png)
+![films](./images/movie.png)
 ## Overview
 Using data from The Numbers and IMDB, this project aims to analyze the most successful films for Microsoft's new movie studio. This project seeks to define "success" by examining ratings, popular genres, film lengths, seasonality of movie releases. The findings of this project may help Microsoft approach the ever-expanding film industry.
 
